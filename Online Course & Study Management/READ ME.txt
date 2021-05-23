@@ -1,0 +1,4 @@
+- Code
+
+   Java File: ProjectSource\src\main\java\com\ooad\coursemgmt.
+   JSP pages: ProjectSource\scr\main\webapp\WEB-INF\views
